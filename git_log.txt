@@ -1,0 +1,42 @@
+commit 924572845f75b9690f39d393791dc7f5873f5782
+Merge: 08350eb 21d0b0f
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 15:04:17 2024 -0700
+
+    Resolved merge
+
+commit 08350ebf001bd8bc650f61f4cdf5878ab7e3a1dd
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 15:01:17 2024 -0700
+
+    favorite game added
+
+commit 21d0b0f3b3e3957d1fbc0e124fc97f526dee3599
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 15:00:14 2024 -0700
+
+    favorite food added
+
+commit bfdb3da7281ca9f27a17b9cc742573c8c650a7f4
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 14:55:43 2024 -0700
+
+    Favorite game added
+
+commit 3f22e2646c425f5f6a560c638a9ce45d0275fb92
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 14:53:31 2024 -0700
+
+    favorite food
+
+commit ac9d0b1643b0a487167bced020f9c59b7daf4832
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 14:42:26 2024 -0700
+
+    Blanks Filled
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
