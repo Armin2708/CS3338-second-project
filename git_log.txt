@@ -1,3 +1,75 @@
+commit 0d1f13d87bd0e56fb8297d3a555d5abee6465fe0
+Merge: 917a6ab b3b5d3e
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Thu Sep 5 00:14:06 2024 +0200
+
+    Merge pull request #3 from Armin2708/feature-about-me
+    
+    added Feature about me
+
+commit b3b5d3e0f9872996fd304b3037b77101ff28c16c
+Merge: 94099ae 917a6ab
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Thu Sep 5 00:13:45 2024 +0200
+
+    Merge branch 'main' into feature-about-me
+
+commit 94099ae098d0136e16b4e5ed352cdc9246b679d8
+Author: Armin RAD <radarmine1@gmail.com>
+Date:   Wed Sep 4 15:10:11 2024 -0700
+
+    Update index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 917a6abd7a17af18f09a12763f9b56630b7c1b1b
+Author: Armin2708 <radarmine1@gmail.com>
+Date:   Wed Aug 28 15:15:30 2024 -0700
+
+    added repo link file and git log file
+
+commit 9141ffc480daabb423988cce8aafd4397ceced17
+Merge: 6cc4ef3 16269ea
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Thu Aug 29 00:09:35 2024 +0200
+
+    Merge pull request #2 from Armin2708/index-fix
+    
+    Index fix
+
+commit 16269ea180ebd90334b327e56da0f2177d1e184a
+Merge: 9245728 6cc4ef3
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Thu Aug 29 00:09:25 2024 +0200
+
+    Merge branch 'main' into index-fix
+
 commit 924572845f75b9690f39d393791dc7f5873f5782
 Merge: 08350eb 21d0b0f
 Author: Armin2708 <radarmine1@gmail.com>
@@ -28,6 +100,21 @@ Author: Armin2708 <radarmine1@gmail.com>
 Date:   Wed Aug 28 14:53:31 2024 -0700
 
     favorite food
+
+commit 6cc4ef301c53f6eb7f57d2c72d0d37388ad0974d
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Wed Aug 28 23:50:45 2024 +0200
+
+    Create README.md
+
+commit ef4bf1398c75a3b6a8fc9a565d485e94b9411f3b
+Merge: 1d2bfc0 ac9d0b1
+Author: Armin RAD <127164081+Armin2708@users.noreply.github.com>
+Date:   Wed Aug 28 23:48:07 2024 +0200
+
+    Merge pull request #1 from Armin2708/info-fill
+    
+    Blanks Filled
 
 commit ac9d0b1643b0a487167bced020f9c59b7daf4832
 Author: Armin2708 <radarmine1@gmail.com>
